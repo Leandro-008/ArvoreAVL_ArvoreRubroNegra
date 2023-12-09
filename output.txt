@@ -1,0 +1,5 @@
+
+Tempo de inserção na árvore AVL: 25 ms
+Tempo de inserção na árvore Rubro Negra: 22 ms
+Tempo total de operações na árvore AVL: 4739 ms
+Tempo total de operações na árvore Rubro Negra: 2 ms
